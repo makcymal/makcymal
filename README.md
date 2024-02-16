@@ -1,7 +1,15 @@
-### Hi there 👋
+### Welcome to my Github page 👋
 
+I am Maksim, and I am a third-year undergraduate student of Far Eastern Federal University on Applied Mathematics and Informatics. I am interested in coding, mathematics and machine learning
+
+- 🌱 I’m currently learning machine learning classic algorithms
+- 🔭 I’m currently researching swarm intelligence topic. My current ideas on this primarily at makcymal/silvera repo
+- ✨ I especially like Python and Rust languages
+- 💬 How to reach me in vk, telegram: @makcymal
+- ⚡ Visit makcymal.github.io to watch something fun
+- 😄 Pronouns: he / him
 <!--
-**makcymal/makcymal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**makcymal/makcymal** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
