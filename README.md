@@ -4,10 +4,10 @@ I am Maksim, and I am a third-year undergraduate student of Far Eastern Federal 
 
 - 🌱 I’m currently learning machine learning classic algorithms
 - 🔭 I’m currently researching swarm intelligence topic. My current ideas on this primarily at makcymal/silvera repo
-- ✨ I especially like Python and Rust languages
+- ✨ I especially like Python and Julia languages
 - 💬 How to reach me in vk, telegram: @makcymal
 - ⚡ Visit makcymal.github.io to watch something fun
-- 😄 Pronouns: he / him
+<!-- - 😄 Pronouns: he / him
 <!--
 **makcymal/makcymal** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
