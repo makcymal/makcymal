@@ -1,6 +1,6 @@
 ### Hi, I am Maksim 👋
 
-- Bachelor of Applied Mathematics and Computer Science
+- Master of Applied Mathematics and Computer Science
 - Interesting in system programming, machine learning and swarm intelligence
 - Languages: Java, Python, C++, Rust
 - ICPC semi-finalist twice in 2023 and 2024
